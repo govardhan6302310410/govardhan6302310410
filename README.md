@@ -22,9 +22,10 @@
   Real-time feedback with anonymous users and room codes.  
 - *Online Turf Booking System* (React.js + Firebase)  
   Real-time turf availability checker with instant booking.
-- *To-Do Task Manager with Analytics (MERN Stack)
-   A feature-rich task management web app with login, daily tracking, notes, pie charts, and login graphs.
-   🔐 Login/Signup with JWT · 🗓️ Daily Tracker · 📝 Notes · 📊 Pie + Bar Charts · ☁ MongoDB-based persistence.
+- *To-Do Task Manager with Analytics* (MERN Stack)                                                                                                                                                 
+ A feature-rich task management web app with login,daily tracking, notes, pie charts, and login graphs. 🔐 Login/Signup with JWT ·  
+ 🗓️ Daily Tracker · 📝 Notes · 📊 Pie + Bar Charts · ☁ MongoDB-based persistence.
+  
 
 ---
 
